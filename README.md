@@ -1,7 +1,9 @@
 # 👋 Hey there! I'm Unique Chukwudi
 
 ## 🚀 About Me
-I'm a passionate and detail-oriented  developer who specializes in building responsive, user-friendly websites and mobile applications. I bring strong problem-solving skills, a collaborative spirit, and a keen eye for design into every project.
+I specialize in building responsive, user-friendly websites and mobile applications using HTML, CSS, JavaScript, and React Native. With hands-on experience in React, Vue, Next.js, and modern tools like TypeScript, Tailwind CSS, and Figma, I focus on creating clean, accessible, and scalable interfaces. I stay current with the latest technologies, and I enjoy collaborating on real-world projects that solve meaningful problems. Whether it’s contributing to open source, working in teams, or taking on new challenges, I bring strong problem-solving skills, attention to detail, and a commitment to quality in every line of code.
+
+Let’s build something impactful together.
 
 🔧 I work with modern technologies including:
 - **HTML, CSS, JavaScript**
