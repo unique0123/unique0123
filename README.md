@@ -55,8 +55,8 @@ I'm always exploring new tech trends, especially around **AI integrations in mob
 
 ## 🛠️ GitHub Stats
 
-![Unique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unique0123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unique0123&layout=compact&theme=radical)
+![Unique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unique0123&show_icons=true&theme=radical&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unique0123&layout=compact&theme=radical&v=2)
 
 ---
 
